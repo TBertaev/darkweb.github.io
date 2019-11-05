@@ -1,1 +1,39 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+* {
+  list-style: none;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #131418;
+}
+
+.bg-color {
+  background-color: #131418;
+  border-bottom: 1px solid #ecf0f1;
+}
+
+.navbar .logo {
+  font-family: TOSCA;
+  font-size: 29px;
+}
+
+.picture img {
+  width: 250px;
+  height: 300px;
+  display: block;
+  background-color: #424242;
+}
+
+.biograph {
+  width: 600px;
+}
+
+.biograph- {
+  width: 500px;
+}
+
+footer .logo {
+  font-size: 58px;
+  color: #ecf0f1;
+}
+/*# sourceMappingURL=style.css.map */
